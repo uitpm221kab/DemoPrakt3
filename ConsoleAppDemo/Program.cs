@@ -10,4 +10,4 @@ Console.WriteLine("Привіт,!");
 Console.WriteLine("Привіт,!");
 
 
-
+Console.ReadLine();
